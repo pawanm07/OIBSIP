@@ -10,11 +10,12 @@ This repository contains Two distinct data analysis and prediction projects usin
 The Car Price Prediction project aims to predict the selling price of cars based on various features using machine learning algorithms.
 
 ### Dataset
-Source: ( Car data.csv )
 
-Description: The dataset contains information about car attributes such as year, present price, kilometers driven, fuel type, seller type, transmission type, and owner details.
+Source : Car data.csv 
 
-### Technologies Used
+Description : The dataset contains information about car attributes such as year, present price, kilometers driven, fuel type, seller type, transmission type, and owner details.
+
+### Libraries Used
 - Python
 - Pandas
 - NumPy
@@ -29,3 +30,7 @@ Description: The dataset contains information about car attributes such as year,
 - Building and evaluating predictive models using Linear Regression and Lasso Regression.
 - Visualizing model performance with scatter plots and evaluating accuracy with R-squared.
 
+### Repository Structure
+ Car_Price_Prediction.ipynb: Jupyter notebook containing the complete analysis and code.
+ 
+ README.md: Detailed description of the project and instructions.
