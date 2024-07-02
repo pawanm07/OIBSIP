@@ -3,7 +3,7 @@
 
 This repository contains Two distinct data analysis and prediction projects using Python and various machine learning techniques. Each project focuses on different datasets and objectives:
 
-## Car Price Prediction
+## 1) Car Price Prediction
 
 ### Overview
 
@@ -58,7 +58,7 @@ pip install scikit-learn
 
 
 
-## Sales Prediction
+## 2) Sales Prediction
 
 ### Overview
 
