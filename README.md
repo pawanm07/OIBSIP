@@ -15,6 +15,14 @@ Source : Car data.csv
 
 Description : The dataset contains information about car attributes such as year, present price, kilometers driven, fuel type, seller type, transmission type, and owner details.
 
+
+### Prerequisites
+
+- Python 3.7+
+- pip (Python package installer)
+- Jupyter Notebook 
+
+
 ### Dependencies
 
 Install the required packages using pip:
