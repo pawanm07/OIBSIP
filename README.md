@@ -15,8 +15,19 @@ Source : Car data.csv
 
 Description : The dataset contains information about car attributes such as year, present price, kilometers driven, fuel type, seller type, transmission type, and owner details.
 
+### Dependencies
+
+Install the required packages using pip:
+
+```bash
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install seaborn
+pip install scikit-learn
+```
+
 ### Libraries Used
-- Python
 - Pandas
 - NumPy
 - Matplotlib
@@ -31,6 +42,8 @@ Description : The dataset contains information about car attributes such as year
 - Visualizing model performance with scatter plots and evaluating accuracy with R-squared.
 
 ### Repository Structure
+```bash
  Car_Price_Prediction.ipynb: Jupyter notebook containing the complete analysis and code.
  
  README.md: Detailed description of the project and instructions.
+```
