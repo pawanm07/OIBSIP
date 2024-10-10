@@ -1,5 +1,5 @@
 # OIBSIP
-# Car Price Prediction and Sales Prediction Project
+# 1) Car Price Prediction and  2) Sales Prediction Project
 
 This repository contains Two distinct data analysis and prediction projects using Python and various machine learning techniques. Each project focuses on different datasets and objectives:
 
